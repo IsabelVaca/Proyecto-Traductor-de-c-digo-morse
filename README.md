@@ -7,6 +7,9 @@ En este programa se podrá ingresar una oración de máximo 15 palabras, el prog
     
 # Algorítmo
 EO(oracion_original = oración que se traducirá, variables con la secuencia de cada carácter)
+
 Crear una función que convierta cada carácter en la serie de puntos y rayas correspondientes utilizando los valores guardados de la secuencia de cada carácter y que guarde la traducción en una variable.
+
 En el caso de la traducción de código a lenguaje natural se crea otra función
+
 EF(oracion_codificada)
